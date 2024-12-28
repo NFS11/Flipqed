@@ -14,7 +14,7 @@ Saved Games
 
 I will add more in the future and add cool stuff like more hiding directories and less/more time and custom settings.
 
-Flipqed uses savefiles. The savefile is located in the exavt same directory as the game.
+Flipqed uses savefiles. The savefile is located in the exact same directory as the game.
 
 Why did you make the game?
 
