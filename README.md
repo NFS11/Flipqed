@@ -1,7 +1,7 @@
 # Flipqed
 Flipqed is a game written in C# and is a file "hide and seek" game.
 
-FLipqed is a game I made for fun where the game makes a .txt file. You have 5 minutes to find this .txt file.
+Flipqed is a game I made for fun where the game makes a .txt file. You have 5 minutes to find this .txt file.
 
 The .txt file the game makes can be found in any of these folders/locations:
 
